@@ -23,7 +23,7 @@
         <field name="arch" type="xml">
             <!-- Make the field editable -->
             <field name="lst_price" position="attributes">
-                <attribute name="readonly" />
+                <attribute name="attrs" />
             </field>
         </field>
     </record>
